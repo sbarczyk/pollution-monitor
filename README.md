@@ -1,7 +1,7 @@
 # PollutionDB Monitor
 
 Aplikacja webowa do monitorowania stacji pomiaru zanieczyszczeń środowiskowych.  
-Projekt zrealizowany na potrzeby przedmiotu **Programowanie w językach Erlang/Elixir**.
+Projekt zrealizowany na potrzeby przedmiotu **Programowanie w językach Erlang/Elixir**, AGH Kraków, wydział Informatyki
 
 ## Autor
 
